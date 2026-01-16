@@ -1,4 +1,4 @@
-# Day 17: AWS Elastic Beanstalk Blue-Green Deployment
+#AWS Elastic Beanstalk Blue-Green Deployment
 
 This project replicates the Azure App Service deployment slot functionality using **AWS Elastic Beanstalk** to achieve zero-downtime deployments through blue-green deployment strategy.
 
